@@ -1,6 +1,6 @@
 #langchain function
 from langchain_community.chat_models import BedrockChat
-from langchain.memory import ConversationSummeryBufferMemory
+from langchain.memory import ConversationSummaryBufferMemory
 from langchain.chains import ConversationChain
 
 #invoke model
