@@ -15,7 +15,7 @@ def titan_llm(input_text):
         }
     )
     #return llm
-    response = llm.invoke(input_text)
+    response = llm.invoke(input_text)   
 
     return response
 #test
